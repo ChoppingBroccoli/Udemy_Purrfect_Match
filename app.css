@@ -1,0 +1,11 @@
+body {
+	background-image: url('https://images.stockfreeimages.com/2442/sfixl/24428980.jpg');
+	background-size: cover;
+	font-family: Lato;
+	/*background-position: center;*/
+}
+
+#content {
+	text-align: center;
+	padding-top: 25%;
+}
